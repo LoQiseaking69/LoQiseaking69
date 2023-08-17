@@ -2,7 +2,7 @@
 - 👀 I’m interested in A.N.N's, AGI and quantum shite
 - 🌱 I’m currently learning jupyter-notebooks
 - 💞️ I’m looking to collaborate on transformer models
-- 📫 How to reach me ...
+- 📫 How to reach me ... 8bakfjqmj2@privaterelay.appleid.com
 
 <!---
 LoQiseaking69/LoQiseaking69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
