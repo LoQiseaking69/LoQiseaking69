@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LoQiseaking69
 - 👀 I’m interested in A.N.N's, AGI and quantum shite
-- 🌱 I’m currently learning jupyter-notebooks
+- 🌱 I’m currently learning jupyter-notebooks for data science.
 - 💞️ I’m looking to collaborate on transformer models
 - 📫 How to reach me ... 8bakfjqmj2@privaterelay.appleid.com
 
