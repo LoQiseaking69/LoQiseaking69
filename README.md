@@ -6,7 +6,7 @@ possibly curated in repo files on this page, i'm working on a few of those detai
 You might not find interest or might; nevertheless, the compartmentalized concepts in succeeding
 versions of the built upon ambitions held therein, are selectively derived and progressed along 
 a trajectory... from the chest.
-so guess and have fun.
+So guess and have fun.
 - 👀 I’m interested in A.N.N's, AGI (multimodal networks as i see it) and quantum shite.
 - 🌱 I’m currently learning to use jupyter-notebooks for data science.
 - 💞️ I’m looking to collaborate on various transformer models
