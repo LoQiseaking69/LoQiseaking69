@@ -1,19 +1,22 @@
-- 👋 Hi, I’m Ant @LoQiseaking69
+# Welcome to Ant @LoQiseaking69's Scratch Board!
 
-Welcome to my scratch board! If you can peak through the jumble,
-possibly curated in repo files on this page, i'm working on a few of those details...
+![Quantum Computing GIF](/path/to/IMG_6697.gif)
 
-You might not find interest or might; nevertheless, the compartmentalized concepts in succeeding
-versions of the built upon ambitions held therein, are selectively derived and progressed along 
-a trajectory... from the chest.
-So guess and have fun.
-- 👀 I’m interested in A.N.N's, AGI (multimodal networks as i see it) and quantum shite.
-- 🌱 I’m currently learning to use jupyter-notebooks for data science.
-- 💞️ I’m looking to collaborate on various transformer models
-   and other network architectures.
-- 📫 How to reach me ... 8bakfjqmj2@privaterelay.appleid.com
+I'm navigating through the complexity of artificial intelligence, where ideas are pulled straight from the chest — a trajectory of curated ambitions. Whether these concepts resonate with you or spark curiosity, they represent a meticulous journey through the iterations of my work.
 
-<!---
-LoQiseaking69/LoQiseaking69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Interests
+- A.N.N's (Artificial Neural Networks)
+- AGI (Artificial General Intelligence)
+- Multimodal networks
+- Quantum computing innovations
+
+## Current Endeavors
+- Mastering Jupyter notebooks for data science applications.
+
+## Collaborations
+- Keen to synergize on transformative models and diverse network architectures.
+
+## Connect
+- 📫 Reach out to me at [8bakfjqmj2@privaterelay.appleid.com](mailto:8bakfjqmj2@privaterelay.appleid.com)
+
+Feel free to explore, guess, and have fun with the concepts you find here. Let's forge new paths in the realm of AI together.
