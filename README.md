@@ -1,4 +1,4 @@
-# Welcome to Ant @LoQiseaking69's Scratch Board!
+# Welcome to Ant's @LoQiseaking69's Scratch Board!
 
 ![Quantum Computing GIF](/path/to/IMG_6697.gif)
 
