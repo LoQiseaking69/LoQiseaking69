@@ -1,6 +1,6 @@
 # Welcome to Ant's @LoQiseaking69's Scratch Board!
 
-![Quantum Computing GIF](/path/to/IMG_6697.gif)
+![Quantum Computing GIF](IMG_6697.gif)
 
 I'm navigating through the complexity of artificial intelligence, where ideas are pulled straight from the chest — a trajectory of curated ambitions. Whether these concepts resonate with you or spark curiosity, they represent a meticulous journey through the iterations of my work.
 
