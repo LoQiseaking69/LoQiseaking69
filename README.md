@@ -16,7 +16,7 @@ I'm navigating through the complexity of artificial intelligence and Robotics, w
 
 ## Current Endeavors
 - Mastering Jupyter notebooks for data science applications.
-- (https://github.com/LoQiseaking69/SephsBIOME)
+- [Seph's BIOME on GitHub](https://github.com/LoQiseaking69/SephsBIOME)
 ## Collaborations
 - Keen to synergize on transformative models and diverse network architectures.
 
