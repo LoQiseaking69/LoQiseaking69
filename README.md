@@ -2,7 +2,7 @@
 
 ![Quantum Computing GIF](https://github.com/LoQiseaking69/LoQiseaking69/blob/main/Fun.gif)
 
-                                    👽🔎The More Regressed, The Smaller The Universe... 🧬🔺🔻
+if you are on 📲 u might need 💻🌐 to 👁️💌                 👽🔎The More Regressed, The Smaller The Universe... 🧬🔺🔻
 
 I'm navigating through the complexity of artificial intelligence and Robotics, where ideas are pulled straight from the chest to whatever end... effector; probably🥁
 
