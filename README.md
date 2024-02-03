@@ -2,9 +2,10 @@
 
 ![Quantum Computing GIF](https://github.com/LoQiseaking69/LoQiseaking69/blob/main/Fun.gif)
 
-                                      The More Regressed, The Smaller The Universe... 
+                                      👽🔎The More Regressed, The Smaller The Universe... 🧬🔺🔻
 
-I'm navigating through the complexity of artificial intelligence and Robotics, where ideas are pulled straight from the chest to whatever end, effector... probably
+I'm navigating through the complexity of artificial intelligence and Robotics, where ideas are pulled straight from the chest to whatever end... effector; probably🥁
+
 — a trajectory of curated ambitions. Whether these concepts resonate with you or spark curiosity, they represent a meticulous journey through the iterations of my work.
 
 ## Interests
