@@ -16,8 +16,8 @@ I'm navigating through the complexity of artificial intelligence and Robotics, w
 
 ## Current Endeavors
 - Mastering Jupyter notebooks for data science applications and
-- ![Seph's BIOME on GitHub](https://github.com/LoQiseaking69/LoQiseaking69/blob/main/IMG_6833.jpeg)
-- [Seph's BIOME on GitHub](https://github.com/LoQiseaking69/SephsBIOME)
+ ![Seph's BIOME on GitHub](https://github.com/LoQiseaking69/LoQiseaking69/blob/main/IMG_6833.jpeg)
+ [Seph's BIOME on GitHub](https://github.com/LoQiseaking69/SephsBIOME)
 
 ## Technologies & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
