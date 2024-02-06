@@ -44,4 +44,5 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
 ## Connect
 - 📫 Reach out to me at [my E-Mail](mailto:Reel0112358.13@proton.me)
 
+here is my student/ [personal GitHub profile ](https://github.com/agreene90)
 Feel free to explore, guess, and have fun with the concepts you find here. Let's forge new paths in the realm of AI together.
