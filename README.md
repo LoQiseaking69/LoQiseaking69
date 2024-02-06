@@ -41,6 +41,6 @@ I'm navigating through the complexity of artificial intelligence and Robotics, w
 - Keen to synergize on transformative models and diverse network architectures.
 
 ## Connect
-- 📫 Reach out to me at [8bakfjqmj2@privaterelay.appleid.com](mailto:Reel0112358.13@proton.me)
+- 📫 Reach out to me at [my E-Mail](mailto:Reel0112358.13@proton.me)
 
 Feel free to explore, guess, and have fun with the concepts you find here. Let's forge new paths in the realm of AI together.
