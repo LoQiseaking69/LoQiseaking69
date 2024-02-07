@@ -2,7 +2,7 @@
 
 ![Quantum Computing GIF](https://github.com/LoQiseaking69/LoQiseaking69/blob/main/Fun.gif)
 
-        if you are on 📲 u might need 💻🌐 to 👁️💌                 👽🔎The More Regressed, The Smaller The Universe... 🧬🔺🔻
+        if you are on 📲 u might need 💻🌐 to 👁️💌                 👽🔎The More correlations Regressed, The Smaller The Universe... 🧬🔺🔻
 
 I'm navigating through the complexity of artificial intelligence and Robotics, stemming from my Data Science Studies at `Bloom Tech` where i'm learning 
 to break down ideas pulled straight from the chest to whatever end... effector; probably🥁
@@ -41,7 +41,7 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
 ## Collaborations
 - Keen to synergize on transformative models and diverse network architectures.
 
-anyone with exerience modeling reinforcement learning models for binomial distributions or multimodel systems, I welcome the assistance toward improving this [dataGen notebook](https://github.com/LoQiseaking69/SephsBIOME/blob/master/Docs/Model/Tests/Utils/SynthDGenV2.ipynb) and this [Model](https://github.com/LoQiseaking69/SephsBIOME/blob/master/Docs/Model/Versions/SephModelV5_(1).ipynb) to be their best selves 🧐🤭 
+anyone with exerience modeling reinforcement learning models for binomial distributions or multimodel systems, I welcome the assistance toward improving this [dataGen notebook](https://github.com/LoQiseaking69/SephsBIOME/blob/master/Docs/Model/Tests/Utils/notebooks/SynthDGenV3.ipynb) and this [Model](https://github.com/LoQiseaking69/SephsBIOME/blob/master/Docs/Model/Versions/SephModelV5_(1).ipynb) to be their best selves 🧐🤭 
 
 ## Connect
 - 📫 Reach out to me at [my E-Mail](mailto:Reel0112358.13@proton.me)
