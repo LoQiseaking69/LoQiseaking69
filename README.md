@@ -41,7 +41,7 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
 ## Collaborations
 - Keen to synergize on transformative models and diverse network architectures.
 
-anyone with exerience modeling reinforcement learning models for binomial distributions or multimodel systems, I welcome the assistance toward improving this: 
+anyone with exerience modeling reinforcement learning models for binomial distributions or multimodel systems, I welcome the assistance toward improving this [dataGen notebook](https://github.com/LoQiseaking69/SephsBIOME/blob/master/Docs/Model/Tests/Utils/SynthDGenV2.ipynb) and this model
 
 ## Connect
 - 📫 Reach out to me at [my E-Mail](mailto:Reel0112358.13@proton.me)
