@@ -24,6 +24,8 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
 
 ## Other projects:
 [Qjulia- quantum operation Analysis 'escaping Julia"](https://github.com/LoQiseaking69/Algo_Note_Books/blob/main/DEMO/Qjulia.ipynb)
+
+
 [Text Processor- autoTokenize and list full sentences and words without redundency or puntuation for NLP preprocess EDA](https://github.com/LoQiseaking69/TextProcessor)
 
 ## Technologies & Tools
