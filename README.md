@@ -1,6 +1,6 @@
 # Welcome to @LoQiseaking69's Scratch Board!
 
-![Quantum Computing GIF](https://github.com/LoQiseaking69/LoQiseaking69/blob/main/giphy.gif)
+![Quantum Computing GIF](https://github.com/LoQiseaking69/LoQiseaking69/blob/main/ASSETS/giphy.gif)
 
         if you are on 📲 u might need 💻🌐 to 👁️💌                 👽🔎The More correlations Regressed, The Smaller The Universe... 🧬🔺🔻
 
