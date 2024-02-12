@@ -22,6 +22,10 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
  
  [Seph's BIOME on GitHub](https://github.com/LoQiseaking69/SephsBIOME)
 
+## Other projects:
+[Qjulia- quantum operation Analysis 'escaping Julia"](https://github.com/LoQiseaking69/Algo_Note_Books/blob/main/DEMO/Qjulia.ipynb)
+[Text Processor- autoTokenize and list full sentences and words without redundency or puntuation for NLP preprocess EDA](https://github.com/LoQiseaking69/TextProcessor)
+
 ## Technologies & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
@@ -38,7 +42,7 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-## Collaborations
+## Projects and Collaborations 
 - Keen to synergize on transformative models and diverse network architectures.
 
 anyone with exerience modeling supervised and reinforcement learning models for polynomial distributions or multimodel systems, I welcome the assistance toward improving this [dataGen notebook](https://github.com/LoQiseaking69/SephsBIOME/blob/master/Docs/Model/Tests/Utils/notebooks/SephsStarter.ipynb) and this [Model](https://github.com/LoQiseaking69/SephsBIOME/blob/master/Docs/Model/Versions/SephModelV5_(1).ipynb) to be their best selves 🧐🤭 
