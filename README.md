@@ -48,7 +48,7 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
 ## Projects and Collaborations 
 - Keen to synergize on transformative models and diverse network architectures.
 
-anyone with exerience modeling supervised and reinforcement learning models for polynomial distributions or multimodel systems, I welcome the assistance toward improving this [dataGen notebook](https://github.com/LoQiseaking69/SephsBIOME/blob/master/Docs/Model/Versions/SephModelV5.ipynb) and this [Model](https://github.com/LoQiseaking69/SephsBIOME/blob/master/Docs/Model/Versions/SephModelV5_(1).ipynb) to be their best selves 🧐🤭 
+anyone with exerience modeling supervised and reinforcement learning models for polynomial distributions or multimodel systems, I welcome the assistance toward improving this [dataGen notebook](https://github.com/LoQiseaking69/SephsBIOME/blob/master/Docs/Model/Versions/SephModelV5.ipynb) and this [Model](https://github.com/LoQiseaking69/SephsBIOME/blob/master/Docs/Model/Versions/SephModelV5.ipynb) to be their best selves 🧐🤭 
 
 ## Connect
 - 📫 Reach out to me at [my E-Mail](mailto:Reel0112358.13@proton.me)
