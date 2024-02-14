@@ -23,8 +23,9 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
  [Seph's BIOME on GitHub](https://github.com/LoQiseaking69/SephsBIOME)
 
 ## Other projects:
-[Qjulia- quantum operation Analysis "escaping Julia"](https://github.com/LoQiseaking69/Algo_Note_Books/blob/main/DEMO/Qjulia.ipynb)
+[1. Qjulia- quantum fractal effect Analysis (the precurser to my PyQt5 App)"escaping Julia"](https://github.com/LoQiseaking69/Algo_Note_Books/blob/main/DEMO/Qjulia.ipynb)
 
+[2. QJulia- QCircuit and fractal convergenence analysis](https://github.com/LoQiseaking69/Qjulia)
 
 [Text Processor- autoTokenize and list full sentences and words without redundency or punctuation for NLP preprocess EDA](https://github.com/LoQiseaking69/TextProcessor)
 
