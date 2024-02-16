@@ -7,6 +7,7 @@
 I'm navigating through the complexity of artificial intelligence and Robotics, stemming from my Data Science Studies at `Bloom Tech` where i'm learning 
 to break down ideas pulled straight from the chest to whatever end... effector; probably🥁
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LoQiseaking69&label=Profile%20views&color=0e75b6&style=flat" alt="LoQiseaking69" /> </p>
 — a trajectory of curated ambitions. Whether these concepts resonate with you or spark curiosity, they represent a meticulous journey through the iterations of my work.
 
 ## Interests
