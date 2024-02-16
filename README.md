@@ -51,6 +51,10 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
 
 anyone with exerience modeling supervised and reinforcement learning models or multimodel systems, I welcome the assistance toward improving my [Model](https://github.com/LoQiseaking69/SephsBIOME/blob/master/Docs/Model/Versions/SephModelV5.ipynb) to be their best selves 🧐🤭 
 
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=LoQiseaking69&show_icons=true&locale=en" alt="LoQiseaking69's GitHub Stats" />
+</p>
+
 ## Connect
 📫<h3 align="left">via LinkedIn:</h3>
 
