@@ -52,7 +52,13 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
 anyone with exerience modeling supervised and reinforcement learning models or multimodel systems, I welcome the assistance toward improving my [Model](https://github.com/LoQiseaking69/SephsBIOME/blob/master/Docs/Model/Versions/SephModelV5.ipynb) to be their best selves 🧐🤭 
 
 ## Connect
-- 📫 Reach out to me at [my E-Mail](mailto:Reel0112358.13@proton.me)
+- 📫<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/anthonyogreene?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthonyogreene" height="30" width="40" />
+  </a>
+</p>
 
 here is my student/ [personal GitHub profile ](https://github.com/agreene90)
 
