@@ -54,6 +54,7 @@ anyone with exerience modeling supervised and reinforcement learning models or m
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=LoQiseaking69&show_icons=true&locale=en&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&custom_title=LoQiseaking69's%20GitHub%20Stats&include_all_commits=true&count_private=true" alt="LoQiseaking69's GitHub Stats" />
 </p>
+
 ## Connect
 📫<h3 align="left">via LinkedIn:</h3>
 
