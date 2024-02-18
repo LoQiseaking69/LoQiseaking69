@@ -21,7 +21,9 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
 ## Current Endeavors
 - Mastering Jupyter notebooks for data science applications and
 
- ![Seph's BIOME on GitHub](https://github.com/LoQiseaking69/LoQiseaking69/blob/main/ASSETS/IMG_6833.jpeg)
+<p align="center">
+  <img src="https://github.com/LoQiseaking69/LoQiseaking69/blob/main/ASSETS/IMG_6833.jpeg" alt="Seph's BIOME on GitHub">
+</p>
  
  [Seph's BIOME on GitHub](https://github.com/LoQiseaking69/SephsBIOME)
 
