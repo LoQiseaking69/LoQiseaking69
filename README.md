@@ -25,7 +25,7 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
   <img src="https://github.com/LoQiseaking69/LoQiseaking69/blob/main/ASSETS/IMG_6833.jpeg" alt="Seph's BIOME on GitHub">
 </p>
  
- [Seph's BIOME on GitHub](https://github.com/LoQiseaking69/SephsBIOME)
+ ⭐️[Seph's BIOME on GitHub](https://github.com/LoQiseaking69/SephsBIOME)
 
 ## Other projects:
 [1. Qjulia- quantum fractal effect Analysis (the precurser to my PyQt5 App)"escaping Julia"...](https://github.com/LoQiseaking69/Algo_Note_Books/blob/main/DEMO/Qjulia.ipynb)
