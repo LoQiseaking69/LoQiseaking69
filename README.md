@@ -33,6 +33,7 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
 [2. QJulia- Quantum fractal converge/escape analysis Rust&PyQt5 App](https://github.com/LoQiseaking69/Qjulia)
 
 [3. Text Processor- autoTokenize and list full sentences and words without redundency or punctuation for NLP preprocess EDA](https://github.com/LoQiseaking69/TextProcessor)
+
 *ect..*
 
 ## Technologies & Tools
