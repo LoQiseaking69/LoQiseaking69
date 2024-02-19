@@ -28,7 +28,7 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
  ⭐️[Seph's BIOME on GitHub](https://github.com/LoQiseaking69/SephsBIOME)
 
 ## Other projects:
-[personal Portfolio "Fan app"🤭 -for those that would like to follow me a little more closely.](https://github.com/LoQiseaking69/LoQi)
+[1. personal Portfolio "Fan app"🤭 -for those that would like to follow me a little more closely.](https://github.com/LoQiseaking69/LoQi)
 
 [2. QJulia- Quantum fractal converge/escape analysis Rust&PyQt5 App](https://github.com/LoQiseaking69/Qjulia)
 
