@@ -34,7 +34,7 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
 
 [3. Text Processor- autoTokenize and list full sentences and words without redundency or punctuation for NLP preprocess EDA](https://github.com/LoQiseaking69/TextProcessor)
 
-*ect..*
+*etc..*
 
 ## Technologies & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
