@@ -26,6 +26,7 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
 </p>
  
  ⭐️[Seph's BIOME (to be shared Rust lib) on GitHub](https://github.com/LoQiseaking69/SephsBIOME)
+
  🧠[SM2- Sephs NN Model](https://github.com/LoQiseaking69/SM2)
 
 ## Other projects:
