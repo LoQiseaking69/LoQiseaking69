@@ -6,7 +6,7 @@
 
         if you are on 📲 u might need 💻🌐 to 👁️💌                 👽🔎The More correlations Regressed, The Smaller The Universe... 🧬🔺🔻
 
-no one tells me what tgey think... but i hope everyone is actually enjoying the maze of my logigryph.
+no one tells me what they think... but i hope everyone is actually enjoying the maze of my logigryph.
 
 I'm navigating through the complexity of artificial intelligence and Robotics, stemming from my Data Science Studies at `Bloom Tech` where i'm learning 
 to break down ideas pulled straight from the chest to whatever end... effector; probably🥁
