@@ -27,7 +27,7 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
   <img src="https://github.com/LoQiseaking69/LoQiseaking69/blob/main/ASSETS/IMG_6833.jpeg" alt="Seph's BIOME on GitHub">
 </p>
  
- ⭐️[Seph's BIOME (to be shared Rust lib) on GitHub](https://github.com/LoQiseaking69/SephsBIOME)
+<img src="https://github.com/HermiTech-LLC/.github/blob/main/IMG_7656.PNG" width="300"/> <img src="https://github.com/LoQiseaking69/SephsBIOME" width="300"/>
 
  🧠[SM2- Sephs NN Model](https://github.com/LoQiseaking69/SM2)
 
