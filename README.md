@@ -28,6 +28,7 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
   <img src="https://github.com/LoQiseaking69/LoQiseaking69/blob/main/ASSETS/IMG_6833.jpeg?raw=true" width="300" alt="Seph's BIOME on GitHub"/>
   
 </p>
+
  🧠[SM2- Sephs NN Model](https://github.com/LoQiseaking69/SM2)
 
 ## Other projects:
