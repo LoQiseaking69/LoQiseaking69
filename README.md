@@ -24,11 +24,10 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
 - Mastering Jupyter notebooks for data science applications and
 
 <p align="center">
-  <img src="https://github.com/LoQiseaking69/LoQiseaking69/blob/main/ASSETS/IMG_6833.jpeg" alt="Seph's BIOME on GitHub">
+  <img src="https://github.com/HermiTech-LLC/.github/blob/main/IMG_7656.PNG?raw=true" width="300"/>
+  <img src="https://github.com/LoQiseaking69/LoQiseaking69/blob/main/ASSETS/IMG_6833.jpeg?raw=true" width="300" alt="Seph's BIOME on GitHub"/>
+  
 </p>
- 
-<img src="https://github.com/HermiTech-LLC/.github/blob/main/IMG_7656.PNG" width="300"/> <img src="https://github.com/LoQiseaking69/SephsBIOME" width="300"/>
-
  🧠[SM2- Sephs NN Model](https://github.com/LoQiseaking69/SM2)
 
 ## Other projects:
