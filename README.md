@@ -47,7 +47,7 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
 [![Technology-ROS](https://img.shields.io/badge/Technology-ROS-red?style=for-the-badge&logo=ros)](https://www.ros.org/)
 <!-- More badges as per your tech stack -->
 
-## Learning and Development
+## Learning Objectives 
 [![Learning Rust](https://img.shields.io/badge/Learning-Rust-orange?style=for-the-badge&logo=rust)](https://www.rust-lang.org/learn)
 
 [![Learning Quantum Computing](https://img.shields.io/badge/Learning-QuantumComputing-purple?style=for-the-badge&logo=quantum)](https://github.com/Qiskit)
