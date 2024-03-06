@@ -24,14 +24,18 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
 - Mastering Jupyter notebooks for data science applications and
   
 <p align="center">
-  <a href="https://github.com/HermiTech-LLC">
-    <img src="https://github.com/HermiTech-LLC/.github/blob/main/IMG_7656.PNG?raw=true" width="300" alt="HermiTech LLC"/>
-    <br>HermiTech LLC
-  </a>
-  <a href="https://github.com/LoQiseaking69/SM2">
-    <img src="https://github.com/LoQiseaking69/LoQiseaking69/blob/main/ASSETS/IMG_6833.jpeg?raw=true" width="300" alt="Seph's BIOME on GitHub"/>
-    <br>🧠SM2- Sephs NN Model
-  </a>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <a href="https://github.com/HermiTech-LLC">
+      <img src="https://github.com/HermiTech-LLC/.github/blob/main/IMG_7656.PNG?raw=true" width="300" alt="HermiTech LLC"/>
+      <br>HermiTech LLC
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <a href="https://github.com/LoQiseaking69/SM2">
+      <img src="https://github.com/LoQiseaking69/LoQiseaking69/blob/main/ASSETS/IMG_6833.jpeg?raw=true" width="300" alt="Seph's BIOME on GitHub"/>
+      <br>🧠SM2- Sephs NN Model
+    </a>
+  </div>
 </p>
 
 
