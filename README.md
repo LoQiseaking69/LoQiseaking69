@@ -23,7 +23,7 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
 ## Current Endeavors
 - Mastering Jupyter notebooks for data science applications and
   
-<p align="center">
+<div align="center">
   <div style="display: inline-block; text-align: center; margin: 10px;">
     <a href="https://github.com/HermiTech-LLC">
       <img src="https://github.com/HermiTech-LLC/.github/blob/main/IMG_7656.PNG?raw=true" width="300" alt="HermiTech LLC"/>
@@ -36,7 +36,7 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
       <br>🧠SM2- Sephs NN Model
     </a>
   </div>
-</p>
+</div>
 
 
 ## Other projects:
