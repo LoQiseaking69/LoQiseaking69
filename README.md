@@ -29,7 +29,7 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
   
 </p>
 
- 🧠[SM2- Sephs NN Model](https://github.com/LoQiseaking69/SM2)
+     [HermiTech LLC](https://github.com/HermiTech-LLC) & 🧠[SM2- Sephs NN Model](https://github.com/LoQiseaking69/SM2)
 
 ## Other projects:
 [1. personal Portfolio "Fan app"🤭 -for those that would like to follow me a little more closely.](https://github.com/LoQiseaking69/LoQi)
