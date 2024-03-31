@@ -46,7 +46,7 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
 
 [3. Text Processor- autoTokenize and list full sentences and words without redundency or punctuation for NLP preprocess EDA](https://github.com/LoQiseaking69/TextProcessor)
 
-[computer science prjects... ](https://github.com/HermiTech-LLC/Glue)
+[computer science projects... 🤓](https://github.com/HermiTech-LLC/Glue)
 
 *etc..*
 
