@@ -26,7 +26,7 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
 <div align="center">
   <div style="display: inline-block; text-align: center; margin: 10px;">
     <a href="https://github.com/HermiTech-LLC">
-      <img src="https://github.com/HermiTech-LLC/.github/blob/main/IMG_7656.PNG?raw=true" width="300" alt="HermiTech LLC"/>
+      <img src="https://github.com/HermiTech-LLC/.github/blob/main/HTLLC.PNG" width="300" alt="HermiTech LLC"/>
       <br>HermiTech LLC
     </a>
   </div>
