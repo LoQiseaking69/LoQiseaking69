@@ -15,12 +15,10 @@ to break down ideas pulled straight from the chest to whatever end... effector; 
 — a trajectory of curated ambitions. Whether these concepts resonate with you or spark curiosity, they represent a meticulous journey through the iterations of my work.
 
 ## Interests
-- interoperable Frameworks ⚙️🐍
-- concurrent system models🃏
-- general computer science & engineering
-- Data Visualization Tools
-- AGI (Artificial General Intelligence)
-- Quantum computing innovations and robotics
+- Advanced Neural Network Models
+- Pioneering in AGI (Artificial General Intelligence)
+- Innovative Multimodal Systems
+- Frontier Research in Quantum Computing
 
 ## Current Endeavors
 - Mastering Jupyter notebooks for data science applications and
