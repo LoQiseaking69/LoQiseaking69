@@ -5,7 +5,7 @@
 - 🌱 I’m currently exploring **Artificial Intelligence and Robotics**.
 - 🔭 Studying **Data Science** at **Bloom Tech**.
 - 💬 Feel free to ask me about **AI, Data Science, and Quantum Computing**.
-- 📫 How to reach me: **LinkedIn** - [Anthony Greene](https://www.linkedin.com/in/anthonyogreene)
+- 📫 How to reach me: **LinkedIn** - [Here](https://www.linkedin.com/in/anthonyogreene)
 
 ### Interests
 - Advanced Neural Network Models
