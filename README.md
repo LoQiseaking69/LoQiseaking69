@@ -1,9 +1,9 @@
 <img src="https://github.com/LoQiseaking69/LoQiseaking69/blob/main/ASSETS/giphy.gif" alt="Quantum Computing GIF" width="100%" />
 <h1 align="center">Hi 👋, I'm @LoQiseaking69</h1>
-<h3 align="center">AI Enthusiast and Data Science Student at Bloom Tech</h3>
+<h3 align="center">AI Enthusiast and Data Science Student </h3>
 
 - 🌱 I’m currently exploring **Artificial Intelligence and Robotics**.
-- 🔭 Studying **Data Science** at **Bloom Tech**.
+- 🔭 Studying **Data Science**.
 - 💬 Feel free to ask me about **AI, Data Science, and Quantum Computing**.
 - 📫 How to reach me: **LinkedIn** - [Here](https://www.linkedin.com/in/anthonyogreene)
 
