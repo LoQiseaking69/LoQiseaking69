@@ -1,13 +1,19 @@
-<img src="https://github.com/LoQiseaking69/LoQiseaking69/blob/main/ASSETS/giphy.gif" alt="Quantum Computing GIF" width="100%" />
-<h1 align="center">Hi 👋, I'm @LoQiseaking69</h1>
-<h3 align="center">AI Enthusiast and Data Science Student </h3>
+# Hi, I'm @LoQiseaking69 👋
 
-- 🌱 I’m currently exploring **Artificial Intelligence and Robotics**.
+## AI Enthusiast & Data Science Student
+
+![Quantum Computing GIF](https://github.com/LoQiseaking69/LoQiseaking69/blob/main/ASSETS/giphy.gif)
+
+### Professional Interests
+- 🌱 Exploring **Artificial Intelligence and Robotics**.
 - 🔭 Studying **Data Science**.
-- 💬 Feel free to ask me about **AI, Data Science, and Quantum Computing**.
-- 📫 How to reach me: **LinkedIn** - [Here](https://www.linkedin.com/in/anthonyogreene)
+- 🚀 Advancing in **Quantum Computing**.
 
-### Interests
+### Contact Information
+Feel free to ask me about AI, Data Science, and Quantum Computing.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anthonyogreene)
+
+### Interests & Research
 - Advanced Neural Network Models
 - Artificial General Intelligence (AGI)
 - Innovative Multimodal Systems
@@ -25,27 +31,26 @@
 - [More Computer Science Projects](https://github.com/HermiTech-LLC/Glue)
 
 ### Technologies & Tools
-[![Technology-Python](https://img.shields.io/badge/Technology-Python-green?style=for-the-badge&logo=python)](https://www.python.org)
-[![Technology-Rust](https://img.shields.io/badge/Technology-Rust-blue?style=for-the-badge&logo=rust)](https://www.rust-lang.org)
-[![Tool-GitBash](https://img.shields.io/badge/Tool-GitBash-black?style=for-the-badge&logo=git)](https://gitforwindows.org/)
-[![Technology-ROS](https://img.shields.io/badge/Technology-ROS-red?style=for-the-badge&logo=ros)](https://www.ros.org/)
+[![Python](https://img.shields.io/badge/Technology-Python-green?style=for-the-badge&logo=python)](https://www.python.org)
+[![Rust](https://img.shields.io/badge/Technology-Rust-blue?style=for-the-badge&logo=rust)](https://www.rust-lang.org)
+[![GitBash](https://img.shields.io/badge/Tool-GitBash-black?style=for-the-badge&logo=git)](https://gitforwindows.org/)
+[![ROS](https://img.shields.io/badge/Technology-ROS-red?style=for-the-badge&logo=ros)](https://www.ros.org/)
 
 ### Learning Objectives
-[![Learning Rust](https://img.shields.io/badge/Learning-Rust-orange?style=for-the-badge&logo=rust)](https://www.rust-lang.org/learn)
-[![Learning Quantum Computing](https://img.shields.io/badge/Learning-QuantumComputing-purple?style=for-the-badge&logo=quantum)](https://github.com/Qiskit)
+[![Rust](https://img.shields.io/badge/Learning-Rust-orange?style=for-the-badge&logo=rust)](https://www.rust-lang.org/learn)
+[![Quantum Computing](https://img.shields.io/badge/Learning-QuantumComputing-purple?style=for-the-badge&logo=quantum)](https://github.com/Qiskit)
 
 ### Connect with me
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthonyogreene" height="30" width="40" />](https://www.linkedin.com/in/anthonyogreene)
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="agreene90" height="30" width="40" />](https://github.com/agreene90)
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/anthonyogreene)
+[![GitHub](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg)](https://github.com/agreene90)
 
-<iframe src="https://github.com/sponsors/HermiTech-LLC/card" title="Sponsor HermiTech-LLC" height="225" width="600" style="border: 0;"></iframe>
+### Sponsorship
+[Sponsor HermiTech LLC](https://github.com/sponsors/HermiTech-LLC)
 
 ### Statistics
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LoQiseaking69&show_icons=true&locale=en&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&custom_title=LoQiseaking69's%20GitHub%20Stats&include_all_commits=true&count_private=true" height="180em" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LoQiseaking69&theme=2077" height="180em" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LoQiseaking69&theme=2077" height="180em" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LoQiseaking69&theme=2077" height="180em" />
-</div>
+![LoQiseaking69's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoQiseaking69&show_icons=true&locale=en&theme=dark)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LoQiseaking69&theme=2077)
+![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LoQiseaking69&theme=2077)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LoQiseaking69&theme=2077)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="100" />
+![Footer Image](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
