@@ -34,6 +34,7 @@
 [![Learning Rust](https://img.shields.io/badge/Learning-Rust-orange?style=for-the-badge&logo=rust)](https://www.rust-lang.org/learn)
 [![Learning Quantum Computing](https://img.shields.io/badge/Learning-QuantumComputing-purple?style=for-the-badge&logo=quantum)](https://github.com/Qiskit)
 [![Learning VHDL](https://img.shields.io/badge/Learning-VHDL-yellowgreen?style=for-the-badge&logo=vhdl)](https://www.nandland.com/vhdl/tutorials/tutorial-introduction-to-vhdl-for-beginners.html)
+[![Learning Verilog](https://img.shields.io/badge/Learning-Verilog-yellowgreen?style=for-the-badge&logo=verilog)](https://nandland.com/learn-verilog/)
 ### Connect with me
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthonyogreene" height="30" width="40" />](https://www.linkedin.com/in/anthonyogreene)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="agreene90" height="30" width="40" />](https://github.com/agreene90)
