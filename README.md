@@ -48,5 +48,3 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LoQiseaking69&theme=2077" height="180em" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LoQiseaking69&theme=2077" height="180em" />
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="100" />
