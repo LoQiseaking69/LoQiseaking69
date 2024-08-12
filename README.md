@@ -1,4 +1,4 @@
-<img src="[https://github.com/LoQiseaking69/LoQiseaking69/blob/main/ASSETS/fin.gif)" alt="F" width="100%" />
+<img src="[https://github.com/LoQiseaking69/LoQiseaking69/blob/main/ASSETS/fin.gif)" alt="FIN" width="100%" />
 <h1 align="center">Hi 👋, I'm @LoQiseaking69</h1>
 <h3 align="center">AI Enthusiast and Data Science Student </h3>
 
