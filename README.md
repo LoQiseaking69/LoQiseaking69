@@ -39,10 +39,6 @@ Feel free to ask me about:
 ![VHDL](https://img.shields.io/badge/VHDL-yellowgreen?style=for-the-badge&logo=vhdl)
 ![Verilog](https://img.shields.io/badge/Verilog-yellowgreen?style=for-the-badge&logo=verilog)
 
-### Connect with me
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/anthonyogreene)
-[![GitHub](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg)](https://github.com/agreene90)
-
 ### Sponsor me
 [![Sponsor HermiTech LLC](https://img.shields.io/badge/Sponsor_HermiTech_LLC-blue?style=for-the-badge)](https://github.com/sponsors/HermiTech-LLC)
 
