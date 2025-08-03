@@ -22,7 +22,7 @@ Feel free to ask me about:
 
 ### Current Endeavors
 - Mastering Jupyter notebooks for advanced data science applications.
-- Collaborating with [HermiTech LLC](https://github.com/HermiTech-L3C).
+- Collaborating with [HermiTech L3C](https://github.com/HermiTech-L3C).
 - Developing [SM2 - Seph's NN Model](https://github.com/LoQiseaking69/SM2).
 
 ### Projects
