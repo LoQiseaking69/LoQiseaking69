@@ -23,13 +23,9 @@ Feel free to ask me about:
 ### Current Endeavors
 - Mastering Jupyter notebooks for advanced data science applications.
 - Collaborating with [HermiTech L3C](https://github.com/HermiTech-L3C).
-- Developing [SM2 - Seph's NN Model](https://github.com/LoQiseaking69/SM2).
 
 ### Projects
-- [Personal Portfolio App](https://github.com/LoQiseaking69/LoQi)
-- [QJulia - Quantum Fractal Analysis](https://github.com/LoQiseaking69/Qjulia)
 - [Text Processor for NLP](https://github.com/LoQiseaking69/TextProcessor)
-- [Explore More Projects](https://github.com/HermiTech-LLC/Glue)
 
 ### Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
